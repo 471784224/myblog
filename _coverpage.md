@@ -7,7 +7,7 @@
 * Study
 > 一个神奇的网站
 >
-> [Get Started](http://jackyblog.vip/#/README.md)
+> [Get Started](https://jackyblog.vip/#/README.md)
 
 > [local visit](http://localhost:3000/#/readme.md)
 > 
