@@ -2,5 +2,5 @@
 * [ITIL/ITIL®2011](ITIL/ITIL®2011)
 * [ITIL介绍](ITIL/ITIL介绍)
 * [Linux](Linux/linux_home)
-* [service](service_home)
-* [share](share_home)
+* [service](service/service_home)
+* [share](share/share_home)
