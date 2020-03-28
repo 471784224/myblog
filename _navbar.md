@@ -2,5 +2,5 @@
 * [Linux](Linux/linux_home)
 * [ITIL](ITIL/itil_home)
 * [service](service/service_home)
-* [share](share_home)
+* [share](share/share_home)
 
