@@ -1,4 +1,4 @@
-* [ITIL](ITIL/Itil_home)
+* [ITIL](ITIL/itil_home)
 * [ITIL/ITIL®2011](ITIL/ITIL®2011)
 * [ITIL介绍](ITIL/ITIL介绍)
 * [Linux](Linux/linux_home)
